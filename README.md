@@ -37,8 +37,7 @@ I love the challenge of turning logic into helpful tools and building digital so
 
 ## 📈 My GitHub Stats
 
-[![Jazz's GitHub stats]](https://github-readme-stats.vercel.app/api?username=omengbig&show_icons=true&theme=radical&hide_border=true&count_private=true)
-[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=omengbig&layout=compact&theme=radical&hide_border=true)
+![Jazz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omengbig&theme=radical&hide_border=true)
 
 ---
 
