@@ -7,7 +7,8 @@ I love the challenge of turning logic into helpful tools and building digital so
 
 ## ✨ About Me
 - 🔭 **Currently working on:** Enhancing my skills in full-stack development.
-- 🎓 **Education:** - **Bachelor of Computer Science (Software Engineering)** | UNIMAS (2024 - Present)
+- 🎓 **Education:**
+  - **Bachelor of Computer Science (Software Engineering)** | UNIMAS (2024 - Present)
   - **Diploma in Computer Science** | UiTM Sarawak (2021 - 2024)
 - 📍 **Based in:** Sarawak, Malaysia
 
@@ -35,7 +36,8 @@ I love the challenge of turning logic into helpful tools and building digital so
 ---
 
 ## 📈 My GitHub Stats
-![Jazz's GitHub stats](https://github-readme-stats.vercel.app/api?usernam=omengbig&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Jazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=omengbig&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omengbig&layout=compact&theme=radical&hide_border=true)
 
 ---
