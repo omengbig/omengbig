@@ -39,8 +39,8 @@ I love the challenge of turning logic into helpful tools and building digital so
 
 ![Jazz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=omengbig&theme=radical&hide_border=true)
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=omengbig&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=omengbig&layout=compact&theme=radical&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omengbig&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=omengbig&layout=compact&theme=radical&hide_border=true" width="38%" />
 </p>
 
 ---
