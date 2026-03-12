@@ -17,8 +17,7 @@ I love the challenge of turning logic into helpful tools and building digital so
 ## 💻 Tech Stack
 
 | Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| :--- |
 | **Frontend** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
@@ -46,11 +45,6 @@ I love the challenge of turning logic into helpful tools and building digital so
 
 ## 🎧 On Repeat & Off-duty Mode
 [![Spotify](https://img.shields.io/badge/Spotify-On%20Repeat-1DB954?style=social&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1EprHMMmo0HcF7?si=b5493915e7274fea)
-
-- 🎮 **Gaming:** Currently exploring the wizarding world or getting a chicken for my dinner (ifykyk).
-- 📱 **Gadgets:** Exploring the latest in mobile tech and hardware.
-- 🎧 **Vibing:** Listening to my Daily Mix on Spotify.
-- 💤 **Recharging:** Sleeping is the best context switch.
 
 ---
 
