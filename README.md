@@ -17,7 +17,7 @@ I love the challenge of turning logic into helpful tools and building digital so
 ## 💻 Tech Stack
 
 | Category | Tools & Technologies |
-
+| :--- | :--- |
 | **Frontend** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
@@ -36,7 +36,7 @@ I love the challenge of turning logic into helpful tools and building digital so
 
 ## 📈 My GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omengbig&theme=radical&hide_border=true" width="48%" alt="Jazz's Streak" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=omengbig&layout=compact&theme=radical&hide_border=true" width="38%" alt="Top Langs" />
 </p>
