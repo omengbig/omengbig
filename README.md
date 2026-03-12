@@ -6,7 +6,6 @@ I love the challenge of turning logic into helpful tools and building digital so
 ---
 
 ## ✨ About Me
-- 🔭 **Currently working on:** Enhancing my skills in full-stack development.
 - 🎓 **Education:**
   - **Bachelor of Computer Science (Software Engineering)** | UNIMAS (2024 - Present)
   - **Diploma in Computer Science** | UiTM Sarawak (2021 - 2024)
