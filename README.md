@@ -26,7 +26,7 @@ I love the challenge of turning logic into helpful tools and building digital so
 
 ## 🛠️ Featured Projects
 
-### [PADiSmart System](https://github.com/your-username/padismart)
+### [PADiSmart System](https://github.com/omengbig/padismart)
 **A land application management system for Team Ingenuity.**
 * **Tech:** PHP, MySQL, Tailwind CSS
 * **Impact:** Developed as a prototype to streamline land application processes.
