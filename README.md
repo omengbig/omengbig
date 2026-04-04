@@ -42,11 +42,7 @@ I love the challenge of turning logic into helpful tools and building digital so
 
 ---
 
-## 🎧 On Repeat & Off-duty Mode
-[![Spotify](https://img.shields.io/badge/Spotify-On%20Repeat-1DB954?style=social&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1EprHMMmo0HcF7?si=b5493915e7274fea)
-
----
-
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazzier-joane) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://omengbig.github.io)
+[![Spotify](https://img.shields.io/badge/Spotify-On%20Repeat-1DB954?style=social&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1EprHMMmo0HcF7?si=b5493915e7274fea)
