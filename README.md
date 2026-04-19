@@ -8,7 +8,7 @@ I love the challenge of turning logic into helpful tools and building digital so
 ## ✨ About Me
 - 🎓 **Education:**
   - **Bachelor of Computer Science (Software Engineering)** | UNIMAS (2024 - Present)
-  - **Diploma in Computer Science** | UiTM Sarawak (2021 - 2024)
+  - **Diploma in Computer Science** | UiTM Sarawak Branch, Campus 2 (2021 - 2024)
 - 📍 **Based in:** Sarawak, Malaysia
 
 ---
@@ -17,19 +17,21 @@ I love the challenge of turning logic into helpful tools and building digital so
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **Web App** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
+| **Mobile App** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
 
 ---
 
 ## 🛠️ Featured Projects
 
-### [PADiSmart System](https://github.com/omengbig/padismart)
-**A land application management system for Team Ingenuity.**
-* **Tech:** PHP, MySQL, Tailwind CSS
-* **Impact:** Developed as a prototype to streamline land application processes.
+### [KopiDU]
+**A mobile application designed to streamline ordering for café operations. Built with a focus on real-time data synchronisation.**
+* **Tech:** Flutter, Supabase
+
+### [PADISMART: Digital Land & Paddy Mapping Portal]
+**A Geo-Spatial prototype developed for Team Ingenuity to automate land-use analysis and streamline government application workflows.**
+* **Tech:** PHP, MySQL, HTML, Tailwind CSS, JavaScript, QGIS Desktop, PyQGIS, GDAL/OGR (Spatial Data Engine)
 
 ---
 
@@ -45,4 +47,3 @@ I love the challenge of turning logic into helpful tools and building digital so
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazzier-joane) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://omengbig.github.io)
-[![Spotify](https://img.shields.io/badge/Spotify-On%20Repeat-1DB954?style=social&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1EprHMMmo0HcF7?si=b5493915e7274fea)
